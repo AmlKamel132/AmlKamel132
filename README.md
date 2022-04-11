@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 ## I'm Aml Kamel
 Learning is what I do  .
 I'm back-end developer using laravel framework & NodeJS.
