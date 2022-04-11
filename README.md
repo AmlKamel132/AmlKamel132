@@ -1,6 +1,6 @@
 ### Hi there 👋
 ## I'm Aml Kamel
-Learning is what I do and it’s what I’m good at 🤓.
+Learning is what I do  .
 I'm back-end developer using laravel framework & NodeJS.
 
 
