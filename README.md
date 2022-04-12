@@ -11,14 +11,14 @@ I'm back-end developer using laravel framework & NodeJS.
 #### web Development
 ![PHP](https://img.shields.io/badge/-php-blue?style=flat-square&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-red?style=flat-square&logo=Laravel&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js?style=for-the-badge&logo=node.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 
 
 
 #### Database
 ![MySQL](https://img.shields.io/badge/-MySQL-darkblue?style=flat-square&logo=mysql&logoColor=white)
-![POSTGRES](https://img.shields.io/badge/PostgreSQL?style=for-the-badge&logo=postgresql&logoColor=white)
+![POSTGRES](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 #### other
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&logoColor=white)
