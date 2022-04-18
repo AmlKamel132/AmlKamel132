@@ -27,7 +27,7 @@ I'm back-end developer using laravel framework & NodeJS.
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket&logoColor=white)
 
 ---------
-![downloads](https://img.shields.io/github/downloads/AmlKamel132/*/total.svg)
+![downloads](https://img.shields.io/github/downloads/AmlKamel132/LearningVueJS/total.svg)
 
 ---------
 
