@@ -31,5 +31,4 @@ I'm back-end developer using laravel framework & NodeJS.
 ---------
 
 
-![AmlKamel132](https://github-readme-stats.vercel.app/api/top-langs/?username=AmlKamel132&theme=blue-green)
 
